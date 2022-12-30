@@ -1,11 +1,11 @@
-<h1 align="center">Hello World! This is Pau <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">Hello World! This is Pau 👋🏻</h1>
 
 ### :man_technologist: &nbsp;About Me:
 
 - 🔭 Data Analyst with background experience in digital marketing, project management and social media.
 - 🌱 Passioned about asking the right questions in order to obtain valuable insights from data.
 - ⚡ In my free time I love to learn new coding skills and read tech articles.
-- 📫 You can reach me at [![Linkedin Badge](https://img.shields.io/badge/-pauclaret-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pauclaret) [![Gmail Badge](https://img.shields.io/badge/-pauclaretpau@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pauclaretpau@gmail.com)](mailto:pauclaretpau@gmail.com)
+- 📫 You can reach me at <a href="https://www.linkedin.com/in/pauclaret/">LinkedIn</a> or by <a href="mailto:pauclaretpau@gmail.com">mailing me</a>.
 
 ### 🛠 &nbsp;Languages and Tools:
 
