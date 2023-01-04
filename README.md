@@ -5,7 +5,7 @@
 - 🔭 Data Analyst with background experience in digital marketing, project management and social media.
 - 🌱 Passioned about asking the right questions in order to obtain actionable insights from data.
 - ⚡ In my free time I love to learn new coding skills and read tech articles.
-- 📫 You can reach me at <a href="https://www.linkedin.com/in/pauclaret/" target="_blank" rel="noopener noreferrer">LinkedIn</a> or by <a href="mailto:pauclaretpau@gmail.com">mailing me</a>.
+- 📫 You can reach me at <a href="https://www.linkedin.com/in/pauclaret/">LinkedIn</a> or by <a href="mailto:pauclaretpau@gmail.com">mailing me</a>.
 
 ### 🛠 &nbsp;Languages and Tools:
 
